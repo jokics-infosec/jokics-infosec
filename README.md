@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m passionate about blue teaming, SOC automatio
 ---
 
 ### 🛠️ **Projects**
-- [phishguard](https://github.com/jokics-infosec/phishguard): Automated phishing detection and alerting
+- [phishguard](https://github.com/jokics-infosec/phishguard): Automated phishing detection and alerting for Gmail
 - Starring and contributing to top blue team/security repos (see my [stars](https://github.com/jokics-infosec?tab=stars))
 
 ---
