@@ -27,8 +27,15 @@ Welcome to my GitHub profile! I’m passionate about blue teaming, SOC automatio
 
 ---
 
-### 📄 **Portfolio**
-- [soc-analyst-portfolio](https://github.com/jokics-infosec/soc-analyst-portfolio): Blue Team / SOC Analyst portfolio
+## 🚀 Projects
+
+Here are some of the key projects in my security engineering and SOC automation portfolio:
+
+- [**phishguard**](https://github.com/jokics-infosec/phishguard)  
+  Automates phishing email analysis, including IOC extraction, enrichment, risk scoring, and alerting.
+
+- [**soc-update-automation**](https://github.com/jokics-infosec/soc-update-automation)  
+  Automates the process of updating and maintaining SOC-related threat intelligence feeds and security configurations across environments.
 
 ---
 
