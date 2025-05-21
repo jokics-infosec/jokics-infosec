@@ -37,11 +37,7 @@ Here are some of the key projects in my security engineering and SOC automation 
 - [**soc-update-automation**](https://github.com/jokics-infosec/soc-update-automation)  
   Automates the process of updating and maintaining SOC-related threat intelligence feeds and security configurations across environments.
 
----
-
-### 🛠️ **Projects**
-- [phishguard](https://github.com/jokics-infosec/phishguard): Automated phishing detection and alerting for Gmail
-- Starring and contributing to top blue team/security repos (see my [stars](https://github.com/jokics-infosec?tab=stars))
+🌟 Explore more security and SOC tools and guides in my [starred repositories](https://github.com/jokics-infosec?tab=stars).
 
 ---
 
@@ -54,5 +50,6 @@ Here are some of the key projects in my security engineering and SOC automation 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue%20Team-informational?style=flat-square&logo=github)
 
 ---
+
 
 *Fun fact:* I’m always exploring new ways to automate security workflows and share what I learn with the community!
