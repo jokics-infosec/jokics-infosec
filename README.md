@@ -37,7 +37,7 @@ Here are some of the key projects in my security engineering and SOC automation 
 - [**soc-update-automation**](https://github.com/jokics-infosec/soc-update-automation)  
   Automates the process of updating and maintaining SOC-related threat intelligence feeds and security configurations across environments.
 
-🌟 Explore more security and SOC tools and guides in my [starred repositories](https://github.com/jokics-infosec?tab=stars).
+🌟 Explore other userful soc analyst tools and curated resources in my [starred repositories](https://github.com/jokics-infosec?tab=stars).
 
 ---
 
